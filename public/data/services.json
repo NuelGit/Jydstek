@@ -4,43 +4,43 @@
       "id": "s1",
       "img": "/assets/img/service/1.jpg",
       "icon": "flaticon-production",
-      "heading": "Elevators || Escalators ",
-      "title": "Supply of fully automated Elevator | Escalators"
+      "heading": " Escalator & Moving Walkways Solutions",
+      "title": "Design and installation of escalators tailored to meet the needs of our clients"
     },
     {
       "id": "s2",
       "img": "/assets/img/service/2.jpg",
       "icon": "flaticon-eco-factory",
-      "heading": "Project Designing",
-      "title": "We deliver well crafted premium designs to your standard"
+      "heading": "Elevator Design & Installation",
+      "title": "Tailored elevator designs and Expert installation services"
     },
     {
       "id": "s3",
       "img": "/assets/img/service/3.jpg",
       "icon": "flaticon-eco-factory",
-      "heading": "Modern Technology",
-      "title": "We are into modernization of elevators &escalators"
+      "heading": "Elevator Modernization Solutions",
+      "title": "Upgrading outdated elevator systems with modern technology to improve performance, safety..."
     },
     {
       "id": "s4",
       "img": "/assets/img/service/4.jpg",
       "icon": "flaticon-production",
-      "heading": "Installation| Maintenance",
-      "title": "We give best industry approved installation & maintennace"
+      "heading": "Maintenance & Repair Services",
+      "title": " 24/7 emergency repair services to address unexpected issues and minimize downtime"
     },
     {
       "id": "s5",
       "img": "/assets/img/service/5.jpg",
       "icon": "flaticon-eco-factory",
-      "heading": "Consultation Services",
-      "title": "We provide industry best consultation services"
+      "heading": "Consultation & Project Management",
+      "title": "Offering expert advice and consultation services for the planning and execution of elevator and escalator projects"
     },
     {
       "id": "s6",
       "img": "/assets/img/service/6.jpg",
       "icon": "flaticon-eco-factory",
-      "heading": "Elevator Design",
-      "title": "We deliver Best and latest Elevator and Escalator Designs "
+      "heading": "Safety Inspections & Compliance",
+      "title": "Ensuring all elevator and escalator systems comply with local and international safety standards"
     }
   ]
 }

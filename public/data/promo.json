@@ -2,20 +2,20 @@
   "promo": [
     {
       "id": "p1",
-      "heading": "Consultation Services",
-      "title": "Supply of Modern elevators and escalators",
+      "heading": " Consultation & Project Management",
+      "title": "Providing expert consultation services and end-to-end project management",
       "icon": "flaticon-factory"
     },
     {
       "id": "p2",
-      "heading": "Installation | Maintenance ",
-      "title": "Installation of Mordern elevators and Lifts",
+      "heading": "Installation & Maintenance ",
+      "title": "Design, installation of escalators and offering regular maintenance",
       "icon": "flaticon-cogwheel"
     },
     {
       "id": "p3",
-      "heading": "Modern Technology",
-      "title": "Designing of Mordern elevator and escalators.",
+      "heading": "Elevator Modernization",
+      "title": "Revitalizing elevator interiors with new materials, lighting, and controls",
       "icon": "flaticon-factory"
     }
   ]
