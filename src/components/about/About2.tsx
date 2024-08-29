@@ -47,27 +47,27 @@ const About2: React.FC = () => {
                 <ul className="about-key mt-30">
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Installation</p>
+                    <p>Elevator Design & Installation</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Project Designing </p>
+                    <p>Safety Inspections & Compliance </p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Consultation Services</p>
+                    <p>Consultation & Project Management</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Supply of Elevators & Escalators</p>
+                    <p>Supply of Escalator & Moving Walkways Solutions</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Maintenance</p>
+                    <p>Maintenance & Repair Services</p>
                   </li>
                   <li>
                     <i className="las la-check-square"></i>
-                    <p>Modernization</p>
+                    <p>Elevator Modernization</p>
                   </li>
                 </ul>
                 <div className="about-contact">

@@ -33,8 +33,8 @@ const About1: React.FC = () => {
               </p>
               <br />
               <p>
-              Jydstek Concepts Nigeria Ltd was specifically established to meet the needs of vertical, horizontal and inclined transportation in Nigeria.
-               We are into the supply, installation, maintenance and modernization of elevators and escalators.
+                At Jydstek Limited, we offer a full suite of services for all your vertical transportation needs,
+                including elevator and escalator design, engineering, and installation. 
               </p>
               <div className="about-btn mt-40">
                 <Link to="/about" className="main-btn">

@@ -103,40 +103,32 @@ const BlogArea: React.FC = () => {
                   Hotels (10)
                 </a>
                 <a href="#">Schools (6)</a>
-                <a href="#">Construction (4)</a>
-                <a href="#">Mechanical (5)</a>
-                <a href="#">Oil & Gas Refinery (20)</a>
+                <a href="#">Industries (4)</a>
+                
               </div>
               <Recents />
               <div className="archive">
                 <h5>Archive</h5>
                 <a className="active" href="#">
-                  Industry Renovation (25)
+                Elevator Modernization (4)
                 </a>
-                <a href="#">Factory Build (18)</a>
-                <a href="#">Electrical (32)</a>
-                <a href="#"> Interior (13)</a>
-                <a href="#">Petrolieum (04)</a>
+                <a href="#">Elevator Design & Installation (18)</a>
+                <a href="#">  Maintenance & Repair Services(12)</a>
+                
               </div>
               <div className="popular-tag">
                 <h5>Popular Tags</h5>
                 <span className="active">
-                  <a href="#">construction</a>
+                  <a href="#">Safety Inspections </a>
                 </span>
                 <span>
-                  <a href="#">civil</a>
+                  <a href="#">Maintenance</a>
                 </span>
                 <span>
-                  <a href="#">welding</a>
+                  <a href="#">Modernization</a>
                 </span>
                 <span>
-                  <a href="#">building</a>
-                </span>
-                <span>
-                  <a href="#">pilling</a>
-                </span>
-                <span>
-                  <a href="#">renovation</a>
+                  <a href="#">Consultation</a>
                 </span>
               </div>
               <div className="helpline-section">

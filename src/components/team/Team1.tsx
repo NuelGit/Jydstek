@@ -37,7 +37,7 @@ const Team1: React.FC<Props> = ({ type }) => {
             <div className="col-lg-12">
               <div className="section-title text-center">
                 <h6>Our Team</h6>
-                <h2>Meet Our Proffesionals</h2>
+                <h2>Meet Our team of Profesionals</h2>
               </div>
             </div>
           </div>

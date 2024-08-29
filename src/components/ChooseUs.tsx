@@ -15,7 +15,7 @@ const ChooseUs: React.FC = () => {
                 <div className="section-title">
                   <h6>Why Choose Us</h6>
                   <h3>
-                    We only provide top <b>industrial</b> services
+                    We only provide top <b>quality, innovative</b> and <i> reliable solutions</i>
                   </h3>
                 </div>
                 <Link to="/about" className="main-btn">

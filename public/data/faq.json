@@ -2,23 +2,23 @@
   "faq": [
     {
       "id": "1",
-      "question": "What is Industrial Services?",
-      "answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+      "question": "Who is Jydstek Limited?",
+      "answer": "Jydstek Limited is a company specializing in the design, engineering, installation, and maintenance of elevator and escalator systems."
     },
     {
       "id": "2",
       "question": "How Many Service We Provide ?",
-      "answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+      "answer": "Design & Installation of Elevator, Elevator Modernization, Escalator & Moving Walkways Solutions, Maintenance & Repair Services, Safety Inspections & Compliance,Consultation & Project Management."
     },
     {
       "id": "3",
       "question": "What Are Your Terms and Conditions?",
-      "answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+      "answer": "All services are subject to availability. Jydstek Limited reserves the right to modify or discontinue any service without notice."
     },
     {
       "id": "4",
       "question": "What Kinds of Payment Do You Accept?",
-      "answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore in fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,"
+      "answer": "Bank Transfer and Cash Payment."
     }
   ]
 }

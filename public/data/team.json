@@ -2,8 +2,8 @@
   "team": [
     {
       "id": "t1",
-      "name": "James Cameron",
-      "designation": "Mechanical Engineer"
+      "name": "Babajide Adio",
+      "designation": "Lead Engineer"
     },
     {
       "id": "t2",
@@ -17,26 +17,6 @@
     },
     {
       "id": "t4",
-      "name": "Albert Gill",
-      "designation": "Contractor"
-    },
-    {
-      "id": "t5",
-      "name": "James Cameron",
-      "designation": "Mechanical Engineer"
-    },
-    {
-      "id": "t6",
-      "name": "Mich Thomson",
-      "designation": "Site Contractor"
-    },
-    {
-      "id": "t7",
-      "name": "Josh Batlar",
-      "designation": "Senior Contractor"
-    },
-    {
-      "id": "t8",
       "name": "Albert Gill",
       "designation": "Contractor"
     }
