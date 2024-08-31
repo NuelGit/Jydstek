@@ -16,14 +16,14 @@ const Recents: React.FC = () => {
         <div className="single-recent-post">
           <h6>Design & Aesthetics</h6>
           <p className="blog-date">
-            <i className="las la-calendar"></i>February 30, 2024
+            <i className="las la-calendar"></i>February 24, 2024
           </p>
         </div>
         <img src="/assets/img/blog/recent-post-bg-3.jpg" alt="" />
         <div className="single-recent-post">
           <h6>Safety & Reliability</h6>
           <p className="blog-date">
-            <i className="las la-calendar"></i>February 18, 2023
+            <i className="las la-calendar"></i>September 18, 2023
           </p>
         </div>
       </div>
