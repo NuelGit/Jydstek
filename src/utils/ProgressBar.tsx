@@ -20,7 +20,7 @@ const ProgressBar: React.FC<props> = ({
   const [progress, setProgress] = useState(start);
 
   useEffect(() => {
-    let timeout: NodeJS.Timer | undefined  = undefined;
+    let timeout: ReturnType< typeof setTimeout>| undefined  = undefined;
     if (progress < completed) {
       timeout = setInterval(() => {
         setProgress((p) => p + 1);
